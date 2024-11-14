@@ -14,3 +14,4 @@ elif num2 >= num3 and num2 >= num1:
     print(num2, " is maximum of three")
 else:
     print(num3, " is the max of all three numbers")
+#commit this code to github
