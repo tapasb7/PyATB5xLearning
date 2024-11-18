@@ -8,8 +8,8 @@
 # Millennial Generation or Generation Y: 1981 and 1996
 # Generation Z or iGen: Born between 1997 and 2010,
 # Generation Alpha: Born between 2010 and 2024.
-from idlelib.pyparse import trans
-from pickle import PROTO
+# from idlelib.pyparse import trans
+# from pickle import PROTO
 
 # match parameter:
 #     case pattern1:
