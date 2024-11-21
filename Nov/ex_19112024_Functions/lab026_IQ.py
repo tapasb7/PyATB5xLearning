@@ -1,3 +1,5 @@
+# from curses import wrapper
+
 num1 = int(input("enter number-1\t"))
 num2 = int(input("enter number-2\t"))
 num3 = int(input("enter number-3\t"))
