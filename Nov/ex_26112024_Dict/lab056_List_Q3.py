@@ -1,5 +1,6 @@
 # Write a Python program that takes two lists and
 # returns True if they have at least one common member.
+#commit & push
 
 
 list_1 = ["Avinash", "Vivian", "Isha", "Bagga", "Sindey"]
