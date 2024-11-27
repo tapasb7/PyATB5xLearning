@@ -1,4 +1,4 @@
-# Sort a dictionary by its values in descending order
+# Sort a dictionary by its values in ascending order
 # output --> {b: 1 , c: 2 , a :3}
 
 
