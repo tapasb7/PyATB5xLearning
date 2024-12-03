@@ -16,6 +16,8 @@ class Employee:
 
 
 
+
+
 # create an instance of the Employee class
 emp = Employee("Michael Jakson", 35, 50000)
 
@@ -30,4 +32,6 @@ print(emp.get_salary())  # Output: 50000
 
 # access private variable directly (not recommended)
 # print(emp.__salary)  # Raises AttributeError
+
+#new commit
 
