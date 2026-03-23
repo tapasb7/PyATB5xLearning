@@ -10,6 +10,7 @@ list_1.sort()
 print(list_1)
 
 print("Largest number in the list is : ", list_1[-1])
+#list[-1] is the index of last element in the list
 
 # find the largest number in a list
 print("Smallest number in the list is : ", list_1[0])
