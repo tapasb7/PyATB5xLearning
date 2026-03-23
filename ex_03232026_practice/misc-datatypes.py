@@ -26,6 +26,10 @@ print(servers)
 print('gateway' in servers)
 print(servers.index('gateway'))
 
+print(servers)
+print(sorted(servers))
+print(sorted(servers, reverse=True))
+
 # print(numbers[4:9])
 # print(student_records[3])
 # print(fruits[0:3])
