@@ -11,3 +11,8 @@ for i in range(n):
 
 
 print(my_list)
+
+list_2 = sorted(my_list)
+print(list_2)
+# list_3 = my_list.sort()
+# print(my_list)
