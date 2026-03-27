@@ -30,7 +30,7 @@ class TrellixAPIClient:
 
     #Test using the client
     @pytest.fixture(scope="module")
-    def api_client():
+    def api_client(self):
         return TrellixAPIClient("https://ndr-test.trellix.local", "test-token")
 
     def test_get_alerts_returns_list(api_client):
